@@ -19,3 +19,15 @@ It returns:
   3801      123
 -    2    +  49
 ------    -----
+Validation rules
+
+Max 5 problems at once
+Only + and - operators allowed
+Operands must be digits only, max 4 digits each
+Optional second parameter shows the computed answer too
+
+Concepts practiced
+
+String formatting & alignment (rjust)
+Input validation and custom error messages
+Writing clean, testable functions
